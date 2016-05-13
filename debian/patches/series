@@ -1,0 +1,8 @@
+01-ansi-c.patch
+02-hurd.patch
+03-build.patch
+05-dmidecode-avoid-sigbus.patch
+10-Fix-No-SMBIOS-nor-DMI-entry-point-found-on-SMBIOS3.patch
+11-Let-read_file-return-the-actual-data-size.patch
+12-dmidecode-Use-read_file-to-read-the-DMI-table-from-s.patch
+13-Use-DWORD-for-Structure-table-maximum-size-in-SMBIOS.patch
