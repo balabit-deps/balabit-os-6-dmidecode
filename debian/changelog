@@ -1,3 +1,9 @@
+dmidecode (3.0-2ubuntu0.2bb1) xenial; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 22 Feb 2020 04:22:17 +0100
+
 dmidecode (3.0-2ubuntu0.2) xenial; urgency=medium
 
   * Restrict /dev/mem scanning for entry point to x86, fixing crashes
