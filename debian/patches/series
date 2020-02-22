@@ -6,3 +6,4 @@
 11-Let-read_file-return-the-actual-data-size.patch
 12-dmidecode-Use-read_file-to-read-the-DMI-table-from-s.patch
 13-Use-DWORD-for-Structure-table-maximum-size-in-SMBIOS.patch
+0140-Fix_scan_entry_point.patch

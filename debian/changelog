@@ -1,3 +1,12 @@
+dmidecode (3.0-2ubuntu0.2) xenial; urgency=medium
+
+  * Restrict /dev/mem scanning for entry point to x86, fixing crashes
+    on certain ARM platforms (LP: #1858615):
+    - New debian/patches/0140-Fix_scan_entry_point.patch (Cherry picked from
+      upstream Commit e12ec26e19e02281d3e7258c3aabb88a5cf5ec1d.
+
+ -- dann frazier <dannf@ubuntu.com>  Mon, 27 Jan 2020 11:29:42 -0700
+
 dmidecode (3.0-2ubuntu0.1bb1) UNRELEASED; urgency=medium
 
   * Balabit patched version
